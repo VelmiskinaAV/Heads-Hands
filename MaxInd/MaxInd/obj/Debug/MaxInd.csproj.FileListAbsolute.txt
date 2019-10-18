@@ -1,0 +1,6 @@
+D:\MaxInd\MaxInd\bin\Debug\MaxInd.exe.config
+D:\MaxInd\MaxInd\bin\Debug\MaxInd.exe
+D:\MaxInd\MaxInd\bin\Debug\MaxInd.pdb
+D:\MaxInd\MaxInd\obj\Debug\MaxInd.csprojResolveAssemblyReference.cache
+D:\MaxInd\MaxInd\obj\Debug\MaxInd.exe
+D:\MaxInd\MaxInd\obj\Debug\MaxInd.pdb

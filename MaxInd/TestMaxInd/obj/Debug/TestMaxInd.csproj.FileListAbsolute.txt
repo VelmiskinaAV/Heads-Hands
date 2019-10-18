@@ -1,0 +1,9 @@
+D:\MaxInd\TestMaxInd\bin\Debug\TestMaxInd.dll
+D:\MaxInd\TestMaxInd\bin\Debug\TestMaxInd.pdb
+D:\MaxInd\TestMaxInd\bin\Debug\MaxInd.exe
+D:\MaxInd\TestMaxInd\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MaxInd\TestMaxInd\bin\Debug\MaxInd.pdb
+D:\MaxInd\TestMaxInd\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MaxInd\TestMaxInd\obj\Debug\TestMaxInd.csprojResolveAssemblyReference.cache
+D:\MaxInd\TestMaxInd\obj\Debug\TestMaxInd.dll
+D:\MaxInd\TestMaxInd\obj\Debug\TestMaxInd.pdb
